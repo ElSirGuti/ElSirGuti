@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Andrés 👋
 
-<!--
-**ElSirGuti/ElSirGuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer · Computer Engineer** based in Valencia, Venezuela.
+I build production AI platforms: tool-calling agents, MCP integration layers and ML pipelines that business teams actually run on.
 
-Here are some ideas to get you started:
+**Open to relocation to Europe and to remote roles.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Design and run an enterprise AI platform (agents + MCP + ML) at Invertropoli C.A.
+- Build ML models for credit risk and demand forecasting
+- Data tooling for motorsport telemetry
+
+## Stack
+`Python` `FastAPI` `TypeScript` `React` `Next.js` `PostgreSQL` `Redis` `Docker` `LightGBM` `scikit-learn` `Claude / MCP`
+
+## Selected projects
+- [motorsport-analytics-pipeline](https://github.com/ElSirGuti/motorsport-analytics-pipeline): lap telemetry analysis with G-G diagrams, handling diagnosis and an AI setup advisor
+- [Trabajo-de-Grado](https://github.com/ElSirGuti/Trabajo-de-Grado): LLM-driven proactive maintenance system (thesis)
+
+## Languages
+Spanish (native) · English (C2) · German (A2, learning) · French (A1, learning)
+
+## Find me
+[Portfolio](https://andresdev-beta.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/andres-gutierrez-tovar-2aa665216)
